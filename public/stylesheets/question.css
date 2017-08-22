@@ -1,0 +1,82 @@
+.container-fluid {
+    margin-top: 80px;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -74px;
+    visibility: hidden;
+}
+
+.sortable {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#addNew {
+    float: right;
+    margin-left: 20px;
+}
+
+#editButton {
+    float: right;
+}
+
+#deleteButton {
+    float: right;
+    margin-left: 5px;
+}
+
+.editSection {
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.multipleChoice {
+    margin-bottom: 10px;
+    width: 29%;
+}
+
+.answerInput {
+    margin-bottom: 10px;
+    width: 55%;
+    float: left;
+}
+
+.deleteAnswer {
+    width: 15%;
+    float: right;
+}
+
+label {
+    width: 100%;
+}
+
+.form-check {
+    width: 49%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.saveButton {
+    margin-left: 10px;
+}
+
+.questionBox {
+    height: 129px;
+    width: 100%;
+    margin-bottom: 12px;
+}
+
+.titleQuestion {
+    text-align: center;
+    padding-top: 49px;
+}
+
+.searchBar {
+    width: 30%;
+    float: right;
+}

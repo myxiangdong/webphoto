@@ -1,0 +1,89 @@
+.row.prize li {
+	width: inherit;
+	margin-bottom: 20px;
+}
+
+.title {
+	margin: 20px 0px 10px 0px;
+}
+
+.title .input-group {
+	width: 230px;
+}
+
+.player ul li img {
+	width: 100%;
+}
+
+.player ul li div.box .labels {
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	font-size: 24px;
+}
+
+.active-rules img {
+	display: none;
+}
+
+.active-rules .rules-title h5 {
+	width: 320px;
+}
+.active-rules .rules-title h5:before, .active-rules .rules-title h5:after {
+	width: 80px;
+}
+
+.active-rules ul li span {
+	display: block;
+}
+.active-rules ul li p {
+	flex: 1;
+}
+.active-rules ul li {
+	display: flex;
+	justify-content: flex-start;
+}
+.pc-banner {
+	display: none;
+}
+img.mobile-banner {
+	display: block;
+}
+footer {
+	display: none;
+}
+.mobil-footer {
+	margin-top: 30px;
+	background-color: white;
+	text-align: center;
+	font-size: 14px;
+	padding: 10px 0px;
+}
+
+
+
+.mask-box {
+	width: 100%;
+	height: 100%;
+	margin: inherit;
+	left: 0px;
+	top: 0px;
+}
+.img-up {
+	margin-top: 30px;
+	text-align: center;
+}
+.img-up label {
+	width: 200px;
+	height: 200px;
+	line-height: 200px;
+	margin: 0 auto;
+}
+
+.box-footer {
+	text-align: center;
+}
+.box-footer label {
+	float: inherit;
+	margin-right: inherit;
+}
